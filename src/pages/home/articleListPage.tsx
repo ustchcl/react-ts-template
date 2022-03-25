@@ -18,18 +18,4 @@ export default class ArticleListPage extends BaseComponent {
       </div>
     )
   }
-
 }
-
-310
--- 
-227
-
-309    339 - 30
---  =   ------
-226       226
-      30
-1.5 - --
-      226
-
-1.35+
