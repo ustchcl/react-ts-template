@@ -16,5 +16,5 @@ export function PromiseBuilder<a>({promise, builder}: {
   return data.bind(
     builder,
     () => <></>
-  )
+  ) 
 }
